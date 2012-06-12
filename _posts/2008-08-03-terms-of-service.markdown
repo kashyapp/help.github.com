@@ -103,25 +103,27 @@ G. General Conditions
 
 4. You must not modify, adapt or hack the Service or modify another website so as to falsely imply that it is associated with the Service, GitHub, or any other GitHub service.
 
-5. You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without the express written permission by GitHub.
+5. You may use GitHub subdomains (e.g., yourname.github.com) solely as permitted and intended by the GitHub Pages tool to host your company pages, personal pages, or open source project pages, and for no other purpose.  You may not use GitHub subdomains in violation of GitHub's trademark or other rights or in violation of applicable law.  GitHub reserves the right at all times to reclaim any GitHub subdomain without liability to you.
 
-6. We may, but have no obligation to, remove Content and Accounts containing Content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates
+6. You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without the express written permission by GitHub.
+
+7. We may, but have no obligation to, remove Content and Accounts containing Content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates
 any party's intellectual property or these Terms of Service.
 
-7. Verbal, physical, written or other abuse (including threats of abuse or retribution) of any GitHub customer, employee, member, or officer will result in immediate account termination.
+8. Verbal, physical, written or other abuse (including threats of abuse or retribution) of any GitHub customer, employee, member, or officer will result in immediate account termination.
 
-8. You understand that the technical processing and transmission of the Service, including your Content, may be transfered unencrypted and involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices.
+9. You understand that the technical processing and transmission of the Service, including your Content, may be transfered unencrypted and involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices.
 
-9. You must not upload, post, host, or transmit unsolicited email, SMSs, or "spam" messages.
+10. You must not upload, post, host, or transmit unsolicited email, SMSs, or "spam" messages.
 
-10. You must not transmit any worms or viruses or any code of a destructive nature.
+11. You must not transmit any worms or viruses or any code of a destructive nature.
 
-11. If your bandwidth usage significantly exceeds the average bandwidth usage (as determined solely by GitHub) of other GitHub customers, we reserve the right to immediately disable your account or throttle your file hosting until you can reduce your bandwidth consumption.
+12. If your bandwidth usage significantly exceeds the average bandwidth usage (as determined solely by GitHub) of other GitHub customers, we reserve the right to immediately disable your account or throttle your file hosting until you can reduce your bandwidth consumption.
 
-12. GitHub does not warrant that (i) the service will meet your specific requirements, (ii) the service will be uninterrupted, timely, secure, or error-free, (iii) the results that may be obtained from the use of the service will be accurate or reliable, (iv) the quality of any products, services, information, or other material purchased or obtained by you through the service will meet your expectations, and (v) any errors in the Service will be corrected.
+13. GitHub does not warrant that (i) the service will meet your specific requirements, (ii) the service will be uninterrupted, timely, secure, or error-free, (iii) the results that may be obtained from the use of the service will be accurate or reliable, (iv) the quality of any products, services, information, or other material purchased or obtained by you through the service will meet your expectations, and (v) any errors in the Service will be corrected.
 
-13. You expressly understand and agree that GitHub shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if GitHub has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the service; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the service; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third party on the service; (v) or any other matter relating to the service.
+14. You expressly understand and agree that GitHub shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if GitHub has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the service; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the service; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third party on the service; (v) or any other matter relating to the service.
 
-14. The failure of GitHub to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. The Terms of Service constitutes the entire agreement between you and GitHub and govern your use of the Service, superseding any prior agreements between you and GitHub (including, but not limited to, any prior versions of the Terms of Service). You agree that these Terms of Service and Your use of the Service are governed under California law.
+15. The failure of GitHub to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. The Terms of Service constitutes the entire agreement between you and GitHub and govern your use of the Service, superseding any prior agreements between you and GitHub (including, but not limited to, any prior versions of the Terms of Service). You agree that these Terms of Service and Your use of the Service are governed under California law.
 
-15. Questions about the Terms of Service should be sent to <support@github.com>.
+16. Questions about the Terms of Service should be sent to <support@github.com>.
